@@ -13,6 +13,16 @@
 }
 #button-5{
 	display: block;
-
-
+    width: 100%;
+}
+#button-6{
+	 background-color: rgb(14, 198, 198);
+	color: black;
+}
+#button-7{
+	font-weight: 500;
+}
+#button-8{
+	font-weight: 500;
+	text-decoration: underline; 
 }
